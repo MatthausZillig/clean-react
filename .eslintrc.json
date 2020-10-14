@@ -1,5 +1,5 @@
 ﻿{
-	"extends": "standar-eith-typescript",
+	"extends": "standard-with-typescript",
 	"parserOptions": {
 		"projetct": "./tsconfig.json"
 	},
